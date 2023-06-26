@@ -23,6 +23,6 @@
 
 ## 🌩GitHub Stats  :
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=snehasishdasz&show_icons=true&locale=en" alt="snehasishdasz" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=snehasishdasz&" alt="snehasishdasz" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=snehasishdasz&show_icons=true&locale=en" alt="snehasishdasz" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasishdasz&" alt="snehasishdasz" />
 </div>
