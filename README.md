@@ -7,7 +7,7 @@
 
 💫About Me :
 
-<h3> 🧑 I'm a Programmer & Developer!!</h3>
+<h3> 😎 I'm a  Developer!!</h3>
 
 - 🔭 I’m currently working on [MERN](https://github.com/snehasishdasz)
 
