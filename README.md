@@ -4,17 +4,21 @@
 <br>
 
 <img align="right"  alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+
 💫About Me :
-<br><br>
-- 🔭 I’m currently working on **MERN**
+
+<h3> 🧑 I'm a Programmer & Developer!!</h3>
+
+- 🔭 I’m currently working on [MERN](https://github.com/snehasishdasz)
 
 - 💬 Ask me about **FRONTEND,BACKEND**
 
 - 📫 How to reach me **snehasishdas872@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/snehasish-das/](https://www.linkedin.com/in/snehasish-das/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/snehasish-das/)
 
 - ⚡ Fun fact **I am an Introvert⚡**
+
 <div><img width="100%"  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"></div>
 
 ## 🌐 Languages and Tools :
