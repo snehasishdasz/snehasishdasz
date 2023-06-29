@@ -5,7 +5,7 @@
 
 <img align="right"  alt="Coding" width="270" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
-💫About Me :
+🤠About Me :
 
 <h3> 😎 I'm a  Developer.</h3>
 
@@ -27,8 +27,8 @@
 
 ## 🌩GitHub Stats  :
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=snehasishdasz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasishdasz&theme=merko&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehasishdasz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasishdasz&theme=merko&hide_border=false" />
 </div>
 <hr>
 
