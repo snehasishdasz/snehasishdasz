@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **snehasishdas872@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/snehasish-das/)
+- 📄 Know about my experiences [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/snehasish-das/)
 
 - ⚡ Fun fact **I am an Introvert⚡**
 
