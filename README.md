@@ -92,7 +92,7 @@
 
 ## 🌩GitHub Stats  ::
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehasishdasz&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehasishdasz&show_icons=true&theme=highcontrast" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasishdasz&theme=merko&hide_border=false" />
 </div>
 
